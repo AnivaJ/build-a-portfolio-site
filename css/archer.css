@@ -1,0 +1,25 @@
+
+hr { display: block; height: 1px;                             
+    border: 0; border-top: 1px solid #ccc;
+  }
+body {
+	font-family: 'Lora', serif;
+	 color: rgb(169, 169, 178);
+	 font-weight: 100;
+}
+
+.text-muted {
+	color: #BCBBBB;
+}
+
+.text-thin {
+	font-weight: 100;
+}
+
+.title-super {
+	font-size: 50px;
+}
+.title-logo {
+	margin-top: 20px;
+}
+
